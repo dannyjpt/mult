@@ -1,0 +1,12 @@
+{
+  "name": "THNK framework",
+  "short_name": "THNK framework",
+  "id": "com.arthuro555.thnk",
+  "description": "This is a preview of the THNK framework. Use at your own risks.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
